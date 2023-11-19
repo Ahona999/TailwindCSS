@@ -1,2 +1,2 @@
 # TailwindCSS
-Mini Project by using TailwindCSS
+Designed a newsletter by using TailwindCSS
